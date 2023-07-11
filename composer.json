@@ -1,0 +1,20 @@
+{
+    "name": "conectica/conectica",
+    "description": "Simple connection to DB",
+    "type": "library",
+    "license": "MIT",
+    "require": {
+        "php": ">=7.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Conectica\\Conectica\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mihaila Ionut"
+        }
+    ],
+    "minimum-stability": "stable"
+}
